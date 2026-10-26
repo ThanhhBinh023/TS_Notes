@@ -1,0 +1,15 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ghi chú và ví dụ TypeScript đã học",
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "typescript": "5.9.3"
+  }
+}
